@@ -33,6 +33,7 @@ class Solution {
         /**
         O(N)T O(1)S
         */
+        
         int[] res = new int[nums.length];
         // calculating the prefix till last but one element and storing it in the output array
         int prefix = 1;
