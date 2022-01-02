@@ -10,54 +10,40 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode l = null;
+        ListNode l = new ListNode(0);
         ListNode curr = l;
-        while (list1 != null && list2 != null) {            
-            if(list1.val <= list2.val) {
-                if (l == null) {
-                l = new ListNode(list1.val);
-                curr = l;
+        while (list1 != null || list2 != null) {
+            if (list1 == null) {
+                if (l.next != null) {
+                    curr.next = list2;
+                    return l.next;
                 }
                 else {
-                curr.next = new ListNode(list1.val);
-                curr = curr.next;
+                    return list2;
                 }
-                list1 = list1.next;
             }
-            else { 
-                if (l == null) {
-                l = new ListNode(list2.val);
-                curr = l;
+            else if (list2 == null) {
+                if (l.next != null) {
+                    curr.next = list1;
+                    return l.next;
                 }
                 else {
-                curr.next = new ListNode(list2.val);               
-                curr = curr.next;
+                    return list1;
                 }
-                list2 = list2.next;                
-            }
-        }
-        if (list1 == null && list2 == null) {
-            return l;
-        }
-        else if (list1 == null && list2 != null){
-            if (curr == null) {
-                return list2;
             }
             else {
-                curr.next = list2;
+                if (list1.val <= list2.val) {
+                    curr.next = new ListNode(list1.val);
+                    curr = curr.next;
+                    list1 = list1.next;
+                }
+                else {
+                    curr.next = new ListNode(list2.val);
+                    curr = curr.next;
+                    list2 = list2.next;
+                }
             }
         }
-        else { 
-            if (curr == null) {
-                return list1;
-            }
-            else {
-                curr.next = list1;
-            }
-        }
-            return l;
-        }
-        
-        
-    
+        return l.next;
+    }
 }
