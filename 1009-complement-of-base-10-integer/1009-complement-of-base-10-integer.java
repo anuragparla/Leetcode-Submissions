@@ -18,6 +18,18 @@ class Solution {
             return 1;
         }
         else {
+            int mul = 1;
+            int sum = 0;
+            while(n != 0) {
+                int rem = n%2 == 0 ?1:0;
+                sum += rem*mul;
+                mul = mul *2;
+                n /= 2;
+            }
+            return sum;
+        }
+        /*
+        else {
             int multiplier = 1;
             int res = 0;
             List<Integer> l = new ArrayList();
@@ -34,7 +46,7 @@ class Solution {
             res = binaryToDecimal(l); 
             return res;
         }
-        
+        */
         //return 0;    
     }
     
