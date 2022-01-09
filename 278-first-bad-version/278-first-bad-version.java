@@ -3,10 +3,7 @@
 
 public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
-     // n is the total no of version 
-        // 1 2 3 4 5 6 7 8 9       isBadVersion(int version) --> gives bad or not 
-        // if 1 v is bad then all followings are bad 
-        // lets say 2 is fbv but mid is 5 so 5 is also a bad v 
+        /*
         int mid = 0;    
         int lp = 1;
         int rp = n;
@@ -20,7 +17,15 @@ public class Solution extends VersionControl {
             }
             
         }
-        return lp;
+        return lp;*/
+        int left = 1, right = n;
+        
+        while(left < right) {
+            int mid = left + (right-left) / 2;
+            if (isBadVersion(mid) == true) right = mid;
+            else left = mid+1;
+        }
+        return left;
     }
     
 }
