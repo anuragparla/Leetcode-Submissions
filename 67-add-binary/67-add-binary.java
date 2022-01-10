@@ -8,14 +8,17 @@ class Solution {
         while(i>=0 || j>=0) {
             int sum = 0;
             sum = carry;
-            if(i >= 0)sum = sum + a.charAt(i) - '0';
-            if(j >= 0)sum = sum + b.charAt(j) - '0';
+            if(i >= 0)
+                sum += a.charAt(i) - '0';
+            if(j >= 0)
+                sum += b.charAt(j) - '0';
             sb.append(sum%2);
             carry = sum/2;
             i--;
             j--;
         }
-        if(carry != 0)sb.append(carry);
+        if(carry != 0)
+            sb.append(carry);
         return sb.reverse().toString();
     }
 }
