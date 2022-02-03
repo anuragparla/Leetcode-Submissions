@@ -1,21 +1,61 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        int[] pFreq = new int[26];
-        for(char value : p.toCharArray()) pFreq[value - 'a']++;
-        int[] anagramFreq = new int[26];
-        List<Integer> result = new ArrayList<>();
-        int left = 0, right = 0;
-        while(right < s.length()){
-            char currentChar = s.charAt(right);
-            if(right - left + 1 <= p.length()){
-                anagramFreq[currentChar - 'a']++;
-                if(Arrays.equals(pFreq, anagramFreq)) result.add(left);
-                right++; //expand the window
-            }else{
-               anagramFreq[s.charAt(left) - 'a']--;
-                left++; // shrink the window
-            }
+        List<Integer> result = new ArrayList();
+        if(s.equals(p)) {
+            result.add(0);
+            return result;
         }
-        return result;
+        else if(s.length()<p.length()) {
+            return result;
+        }
+        else {
+            Map<Character, Integer> pCount = new HashMap();
+            Map<Character,Integer> sCount = new HashMap();
+            for(int i = 0; i<p.length();i++) {
+                if(pCount.containsKey(p.charAt(i))) {
+                    pCount.put(p.charAt(i),(int)(pCount.get(p.charAt(i)) +1));
+                }
+                else {
+                    pCount.put(p.charAt(i),1);
+                }
+            }
+            char[] sArray = s.toCharArray();
+            int p1 = 0;
+            int p2 = p.length()-1;
+            for(int i = p1; i<=p2;i++) {
+                if(sCount.containsKey(sArray[i])) {
+                    sCount.put(sArray[i],(int)(sCount.get(sArray[i]) +1));
+                }
+                else {
+                    sCount.put(sArray[i],1);
+                }
+            }
+            if(sCount.equals(pCount)) {
+                result.add(p1);
+            }
+            for(int j = p.length(); j<sArray.length;j++) {
+                    
+                    if(sCount.containsKey(sArray[j])) {
+                    sCount.put(sArray[j],(int)(sCount.get(sArray[j]) +1));
+                }
+                else {
+                    sCount.put(sArray[j],1);
+                }
+               sCount.put(sArray[p1],(int)(sCount.get(sArray[p1])-1));
+                if (sCount.get(sArray[p1]) == 0)
+                {
+                    sCount.remove(sArray[p1]);
+                }
+                p1+=1;
+                if(sCount.equals(pCount)) {
+                result.add(p1);
+            }
+            }
+                
+            }
+                
+                
+            
+            return result;
+        }
     }
-}
