@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public int maxProfit(int[] prices) {
        /*
@@ -12,7 +13,7 @@ class Solution {
           }
           
       } */
-        if(prices.length<2){
+       /* if(prices.length<2){
             return 0;
         }
         else {
@@ -35,5 +36,28 @@ class Solution {
              return maxProfit;
         }
        
-    }
+    }*/
+    
+      int max = 0;
+        int l = 0;
+        int r =1;
+        int currProfit = 0;
+        
+        while(r<prices.length) {
+            if(prices[r]<prices[l]) {
+                l=r;
+                r+=1;
+            }
+            else {
+               currProfit = prices[r]-prices[l];
+                max = Math.max(max,currProfit);
+                r+=1;
+            }
+        }
+        
+        return max;
+        
+    }  
+        
+        
 }
