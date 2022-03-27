@@ -1,5 +1,6 @@
 class Solution {
     private void dfs(char[][] grid, int row, int col) {
+        //using DFS approach
         int nr = grid.length;
         int nc = grid[0].length;
         int r = row;
