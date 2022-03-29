@@ -29,13 +29,15 @@ class Solution {
             res.add(root.val);
             root = root.right;
         }
-        //System.out.println("array list contents"+res.toString());
-        for(int i = 0; i<res.size()-1;i++) {
+        for(int i = 0; i< res.size()-1;i++)
+        {
             if(res.get(i)<res.get(i+1))
                 continue;
             else 
                 return false;
         }
+
+
         return true;
     }
 }
