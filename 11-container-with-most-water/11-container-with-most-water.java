@@ -1,29 +1,32 @@
 class Solution {
     public int maxArea(int[] height) {
-        if(height.length <1)
-            return 0;
-        int lp = 0; 
-        int rp = height.length-1;
-        int maxArea = 0;
-        int tempArea = 0;
-        int tempHeight = 0;
-        while(lp<rp) {
+        /* O(n^2) doesn't work for this
+        int maxArea = Integer.MIN_VALUE;
+        for(int i = 0; i<height.length; i++) {
+            for(int j = i+1; j<height.length; j++) {
+                if(height[i]<height[j])
+                    maxArea = Math.max((height[i]*(j-i)),maxArea);
+                else {
+                     maxArea = Math.max((height[j]*(j-i)),maxArea);
+                }
+            }
+        }*/
+        // 2 pointer approach
+        int maxArea = Integer.MIN_VALUE;
+        int lp = 0;
+        int rp = height.length -1 ;
+        while(lp < rp) {
             if(height[lp]<height[rp])
             {
-                tempHeight = height[lp];
-                tempArea = tempHeight * (rp-lp);
-                maxArea = Math.max(maxArea,tempArea);
-                lp++;
+                maxArea = Math.max((height[lp]*(rp-lp)),maxArea);
+                lp +=1;
             }
             else {
-                tempHeight = height[rp];
-                 tempArea = tempHeight * (rp-lp);
-                maxArea = Math.max(maxArea,tempArea);
-                rp --;
+                maxArea = Math.max((height[rp]*(rp-lp)),maxArea);
+                rp -=1;
             }
-                
-            
+                 
         }
-       return maxArea; 
+        return maxArea;
     }
 }
