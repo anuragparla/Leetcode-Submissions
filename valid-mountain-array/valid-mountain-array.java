@@ -1,20 +1,29 @@
 class Solution {
     public boolean validMountainArray(int[] arr) {
-        
-        int i=0;
-        
-        while(i<arr.length-1 && arr[i]<arr[i+1]){
-            i+=1;
+        int i = 0;
+        int j = i+1;
+        boolean isClimbingUp = false;
+        boolean isClimbingDown = false;
+        while(j<arr.length) {
+            if(arr[i]< arr[j]) {
+                i +=1;
+                j +=1;
+                isClimbingUp = true;
+            }
+            else {
+                isClimbingDown = true;
+                break;
+            }
         }
-        
-        if(i==0 || i==arr.length-1){
-            return false;
+        while(j<arr.length) {
+            if(arr[i] > arr[j]) {
+                j += 1;
+                i += 1;
+            }
+            else {
+                return false;
+            }
         }
-        
-        while(i<arr.length-1 && arr[i]>arr[i+1]){
-            i+=1;
-        }
-        
-        return i == arr.length-1;
+        return isClimbingDown && isClimbingUp; 
     }
 }
