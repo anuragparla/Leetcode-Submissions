@@ -14,6 +14,8 @@
  * }
  */
 class Solution {
+    /*
+    // recursive approach
     TreeNode temp = null;
     public TreeNode invertTree(TreeNode root) {
         if(root == null) return root;
@@ -22,6 +24,24 @@ class Solution {
         root.right = temp;
         invertTree(root.left);
         invertTree(root.right);
-        return root;
+        return root; 
+        */ 
+    // iterative approach
+    Stack<TreeNode> stash = new Stack<>();
+    List<TreeNode> result = new ArrayList<>();
+    TreeNode temp = null;
+    public TreeNode invertTree(TreeNode root) {
+        while(root != null || !stash.isEmpty()) {
+            while(root != null) {
+                temp = root.left;
+                root.left = root.right;
+                root.right = temp;
+                stash.push(root);
+                result.add(root);
+                root = root.left;
+            }
+            root = stash.pop().right;
+        }
+        return result.isEmpty() ? null : result.get(0);
     }
 }
