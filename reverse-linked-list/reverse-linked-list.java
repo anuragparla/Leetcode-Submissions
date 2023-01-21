@@ -20,5 +20,27 @@ class Solution {
             currNode = following;
         }
         return prev;
+    } 
+
+} 
+
+// using recursion 
+class Solution {
+    public ListNode reverseList(ListNode head) {
+         // using recursion 
+
+         if(head == null || head.next == null)
+            return head;
+        ListNode reversedSubList = reverseList(head.next);
+        head.next.next = head;
+        head.next = null;
+        return reversedSubList;
+
+        
     }
 }
+
+
+
+
+
