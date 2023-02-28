@@ -31,7 +31,7 @@ class Solution {
         // just the root of the tree
         Queue<Node> Q = new LinkedList<Node>(); 
         Q.add(root);
-        
+        Node node = null;
         // Outer while loop which iterates over 
         // each level
         while (Q.size() > 0) {
@@ -43,7 +43,7 @@ class Solution {
             for(int i = 0; i < size; i++) {
                 
                 // Pop a node from the front of the queue
-                Node node = Q.poll();
+                 node = Q.poll();
                 
                 // This check is important. We don't want to
                 // establish any wrong connections. The queue will
