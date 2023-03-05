@@ -1,24 +1,18 @@
 # split @ 
 # . rule applies only for local if . then remove . and concat 
 # + ru;e aplies only for local  if + then ignore every till @ 
-
+# using hashmap gave me a higher efficiency
 
 
 class Solution:
     def numUniqueEmails(self, emails: List[str]) -> int:
-        map = dict()
+        uniqueEmails = set()
         for i in emails:
             temp = i.split("@")
             local = temp[0]
             domain = temp[1]
-            if '+' in local:
-                index = local.find('+')
-                local = local[:index]
-            if '.' in local:
-                local = local.replace('.','')
+            local = local.split('+')[0].replace('.','')
             email = local +'@'+domain
-            if email not in map:
-                map[email] =1 
-            else:
-                map[email] +=1 
-        return len(map.keys())
+            uniqueEmails.add(email) 
+        return len(uniqueEmails)
+
