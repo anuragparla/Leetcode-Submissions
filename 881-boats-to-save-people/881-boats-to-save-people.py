@@ -1,8 +1,7 @@
-'''
 this is a greedy problem 
 sorting the list and applying two pointers is the approach 
 time complexity: O(n log n)
-space complexity: O(n) but it's O(1) if the list space is excluded
+space complexity: O(n) for python since Tim sort uses combination of merge & insert
 '''
 class Solution:
     def numRescueBoats(self, people: List[int], limit: int) -> int:
@@ -11,10 +10,7 @@ class Solution:
         boat = 0
         while lp<=rp:
             if people[lp] + people[rp] <=limit:
-                boat +=1
                 lp +=1 
-                rp -=1 
-            else: 
-                rp -=1
-                boat +=1 
+            rp -=1
+            boat +=1 
         return boat
