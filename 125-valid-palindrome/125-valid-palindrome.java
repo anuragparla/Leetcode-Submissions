@@ -21,3 +21,21 @@ class Solution {
     }
     
 }
+
+/*
+ * Solution without using 2 pointer approach
+    class Solution {
+    public boolean isPalindrome(String s) {
+        String st = s.toLowerCase();
+        StringBuilder sb = new StringBuilder();
+       for(Character c : st.toCharArray()) {
+           if (Character.isLetterOrDigit(c)) sb.append(c);
+       }
+       String formattedString = sb.toString();
+       String reversedString = sb.reverse().toString();
+        System.out.println(st);
+         return formattedString.equals(reversedString);
+    }
+
+}
+*/
