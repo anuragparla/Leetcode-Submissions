@@ -20,3 +20,22 @@ class Solution:
             longestConsecutive = max(longestConsecutive,currentConsecutive)
             currentConsecutive = 0
         return longestConsecutive
+
+#using sorting 
+class Solution:
+    
+    def longestConsecutive(self, nums: List[int]) -> int:
+        if not nums:
+            return 0
+        longestConsecutive = 1
+        currentConsecutive = 1
+        nums = sorted(nums)
+        for i in range(1,len(nums)):
+            if nums[i] != nums[i-1]:
+                if nums[i] == nums[i-1] + 1:
+                    currentConsecutive +=1
+            else:
+                longestConsecutive = max(longestConsecutive,currentConsecutive)
+                currentConsecutive = 1
+        return max(longestConsecutive, currentConsecutive)
+    
