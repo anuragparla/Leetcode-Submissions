@@ -39,3 +39,29 @@ class Solution {
     }
     
 }
+
+
+/*
+ * Using HashMap to store the pair of opening and closing brackets
+ * class Solution {
+    public boolean isValid(String s) {
+        Stack<Character> st = new Stack<>();
+        Map<Character,Character> dict = new HashMap<>();
+        dict.put(')','(');
+        dict.put(']','[');
+        dict.put('}','{');
+
+        for (int i = 0; i<s.length(); i++){
+            Character c = s.charAt(i);
+            if(dict.containsKey(c)){
+                char topElement = st.isEmpty() ? '#' : st.pop();
+                if (topElement != dict.get(c)) return false;
+            }
+            else{
+                st.push(c);
+            }
+        }
+        return st.isEmpty();
+    }
+}
+*/
