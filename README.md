@@ -9,10 +9,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -32,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1894-merge-strings-alternately](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
