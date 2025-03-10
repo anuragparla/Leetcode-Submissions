@@ -7,8 +7,6 @@ class Solution:
         step 4: scan first col 
         step 5: first row count +1 , last col -1 last row -1, first col + 1 
         '''
-        rows = len(matrix)
-        cols = len(matrix[0])
         rows, cols = len(matrix), len(matrix[0])
         top, bottom = 0, rows - 1
         left, right = 0, cols - 1
