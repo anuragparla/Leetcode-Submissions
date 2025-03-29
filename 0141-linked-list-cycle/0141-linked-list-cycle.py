@@ -35,17 +35,15 @@ class Solution:
         if both meet then its a cycle but if fast reaches none then no cycle 
         '''
         fast, slow = head, head 
-        while fast !=None and slow != None:
+        while fast and fast.next:
             slow = slow.next
-            fast = fast.next
-            if fast == None:
-                return False
-            else:
-                fast = fast.next
-            if fast == slow:
-                return True 
+            fast = fast.next.next 
+            if slow == fast:
+                return True
         return False 
-            
+    
+
+
 
 
         
