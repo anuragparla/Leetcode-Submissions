@@ -48,12 +48,6 @@ class Solution:
             return max(2,2)
         return max(2,3)
         exit 
-
-
-            
-
-        
-
         '''
         if not root:
             return 0
