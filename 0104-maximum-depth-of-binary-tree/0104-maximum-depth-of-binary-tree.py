@@ -52,9 +52,9 @@ class Solution:
         if not root:
             return 0
         
-        height_lhs = 1+self.maxDepth(root.left)
-        height_rhs = 1+ self.maxDepth(root.right)
-        return max(height_lhs, height_rhs)
+        height_lhs = self.maxDepth(root.left)
+        height_rhs = self.maxDepth(root.right)
+        return 1+ max(height_lhs, height_rhs)
         
 
       
