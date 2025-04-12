@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2998-count-symmetric-integers](https://github.com/anuragparla/Leetcode-Submissions/tree/master/2998-count-symmetric-integers) |
 ## Stack
 |  |
 | ------- |
@@ -158,4 +159,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0572-subtree-of-another-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/anuragparla/Leetcode-Submissions/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
