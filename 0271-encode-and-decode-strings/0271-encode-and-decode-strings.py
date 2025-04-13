@@ -21,14 +21,8 @@ class Codec:
             while s[j]!='\U0001f3ae':
               j+=1
             l = int(s[i:j])
-            i = j+1
-            word=""
-            while l>0:
-                word +=s[i]
-                l-= 1
-                i+=1
-            res.append(word)
-            
+            res.append(s[j+1:j+1+l])
+            i = j+1+l
         return res
 
 
