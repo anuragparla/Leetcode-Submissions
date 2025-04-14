@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
+| [1656-count-good-triplets](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1656-count-good-triplets) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Binary Search
 |  |
@@ -165,5 +166,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/anuragparla/Leetcode-Submissions/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
