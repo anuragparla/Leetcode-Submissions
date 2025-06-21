@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0271-encode-and-decode-strings) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
