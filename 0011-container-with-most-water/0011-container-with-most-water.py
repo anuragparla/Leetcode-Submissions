@@ -1,18 +1,19 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        maxarea = 0
-        left = 0
-        right = len(height) - 1
-        
-        while left < right:
-            width = right - left
-            maxarea = max(maxarea, min(height[left], height[right]) * width)
-            if height[left] <= height[right]:
-                left += 1
+        left = 0 
+        right = len(height)-1
+        max_water = 0
+        while left != right:
+            h = min(height[left],height[right])
+            w = right - left
+            max_water = max(max_water, (h*w))
+            if height[left] < height[right]:
+                left += 1 
             else:
                 right -= 1
-                
-        return maxarea
+        return max_water
+
+        
 
         '''
         height of length n 
