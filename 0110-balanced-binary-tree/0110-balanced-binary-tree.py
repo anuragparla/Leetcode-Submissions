@@ -5,28 +5,28 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        ''' 
-        Use post order traversal and dfs 
-        at every sub tree calculate height diff. if it's >1 then false
-        Space complexity: O(H) where H is the height of the tree which is 
-        best case O(logN) and worst O(N)
-        Time complexity: O(N) where N is the number of nodes 
-        '''
-        balanced = [True]
-        def computeHeight(root):
-            if not root:
-                return 0
-            leftSubTreeHeight = computeHeight(root.left)
-            rightSubTreeHeight = computeHeight(root.right)
-            difference = abs(leftSubTreeHeight - rightSubTreeHeight)
-            if difference >1:
-                balanced[0] = False
-            return 1 + max(leftSubTreeHeight,rightSubTreeHeight)
-        if root:
-            computeHeight(root)
-        return balanced[0]
+        res = self.checkHeight(root)
+
+        if res == -1:
+            return False
+        else:
+            return True
+    
+    def checkHeight(self,root):
+        if root is None:
+            return 0
+        
+        height_left = self.checkHeight(root.left)
+        height_right = self.checkHeight(root.right)
+
+        if height_left == -1 or height_right == -1:
+            return -1
+        
+        if abs(height_left - height_right) <= 1:
+            return 1+ max(height_left, height_right)
+        else:
+            return -1
 
         
-        
-                
