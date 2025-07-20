@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -190,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
