@@ -14,11 +14,12 @@ class Solution:
     def dfs(self, root, currentSum = 0):
         if root is None:
             return
-        self.dfs(root.left, currentSum * 10 + root.val)
+        currentSum = currentSum * 10 + root.val
+        self.dfs(root.left, currentSum)
         if root.left is None and root.right is None:
-            self.totalSum = self.totalSum + currentSum * 10 + root.val
+            self.totalSum = self.totalSum + currentSum
             return 
-        self.dfs(root.right, currentSum * 10 + root.val)
+        self.dfs(root.right, currentSum)
     
     
 
