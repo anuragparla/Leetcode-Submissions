@@ -20,11 +20,7 @@ class Solution:
                 queue.append(i)
                 count += 1
         while queue:
-            print('q')
-            print(queue)
             curr = queue.popleft()
-            print('c')
-            print
             if curr in prereqToCoursesMap:
                 edges = prereqToCoursesMap[curr]
                 if edges is None:
