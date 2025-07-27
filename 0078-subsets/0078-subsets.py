@@ -4,18 +4,25 @@ class Solution:
         if len(nums) == 0 or nums is None:
             return []
         self.res = []
-        self.recurse(nums, 0, [])
+        self.backtrack(nums, 0, [])
         return self.res
     
-    def recurse(self, nums, idx, path):
+    def backtrack(self, nums, idx, path):
         if idx == len(nums):
-            self.res.append(path)
+            print('when base case')
+            print(path)
+            self.res.append(path[:])
             return
 
         #do not choose or 0 case
-        self.recurse(nums, idx+1, path[:])
+        self.backtrack(nums, idx+1, path)
         path.append(nums[idx])
+        print('after append')
+        print(path)
         #choose or 1 case
-        self.recurse(nums, idx+1, path[:])
+        self.backtrack(nums, idx+1, path)
+        path.pop()
+        print('after pop')
+        print(path)
         
         
