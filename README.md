@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
+| [0359-logger-rate-limiter](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0359-logger-rate-limiter) |
 | [0496-next-greater-element-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0817-design-hashmap) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0271-encode-and-decode-strings](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0271-encode-and-decode-strings) |
+| [0359-logger-rate-limiter](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0359-logger-rate-limiter) |
 | [0816-design-hashset](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0817-design-hashmap) |
 ## Monotonic Stack
@@ -263,4 +265,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0078-subsets) |
+## Data Stream
+|  |
+| ------- |
+| [0359-logger-rate-limiter](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0359-logger-rate-limiter) |
 <!---LeetCode Topics End-->
