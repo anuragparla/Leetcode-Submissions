@@ -1,26 +1,19 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        if len(candidates) == 0 or candidates is None:
-            return []
+        if candidates is None or len(candidates) == 0:
+            return
         self.res = []
-
-        self.recurse(candidates, 0, target, [])
+        self.recurse(candidates, target, 0, [])
         return self.res
     
-    def recurse(self, candidates, idx, target, path):
-        if len(candidates) == idx or target < 0:
+    def recurse(self, candidates, target, idx, path):
+        if target < 0 :
             return
         if target == 0:
-            self.res.append(path[:])
-            return
-        
-        #not choose or 0 case 
-        self.recurse(candidates, idx+1, target, path)
-        #choose or 1 case
-        path.append(candidates[idx]) 
-        self.recurse(candidates, idx, target-candidates[idx], path)
-        path.pop()
+            self.res.append(path)
 
-        
-
-        
+        #logic
+        for i in range(idx, len(candidates)):
+            new_path = path[:]
+            new_path.append(candidates[i])
+            self.recurse(candidates, target-candidates[i], i, new_path)
