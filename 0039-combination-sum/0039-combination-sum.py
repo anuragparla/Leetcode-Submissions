@@ -10,10 +10,11 @@ class Solution:
         if target < 0 :
             return
         if target == 0:
-            self.res.append(path)
+            self.res.append(path[:])
 
         #logic
         for i in range(idx, len(candidates)):
-            new_path = path[:]
-            new_path.append(candidates[i])
-            self.recurse(candidates, target-candidates[i], i, new_path)
+           
+            path.append(candidates[i])
+            self.recurse(candidates, target-candidates[i], i, path)
+            path.pop()
