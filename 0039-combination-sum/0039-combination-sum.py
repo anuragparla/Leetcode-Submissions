@@ -15,10 +15,11 @@ class Solution:
             return
         
         #not choose or 0 case 
-        self.recurse(candidates, idx+1, target, path[:])
+        self.recurse(candidates, idx+1, target, path)
         #choose or 1 case
         path.append(candidates[idx]) 
-        self.recurse(candidates, idx, target-candidates[idx], path[:])
+        self.recurse(candidates, idx, target-candidates[idx], path)
+        path.pop()
 
         
 
