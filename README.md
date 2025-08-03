@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0253-meeting-rooms-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0253-meeting-rooms-ii) |
 | [0271-encode-and-decode-strings](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0271-encode-and-decode-strings) |
 | [0496-next-greater-element-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0253-meeting-rooms-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0253-meeting-rooms-ii) |
 | [1894-merge-strings-alternately](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0253-meeting-rooms-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0720-longest-word-in-dictionary) |
 ## Hash Table
 |  |
@@ -175,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0253-meeting-rooms-ii) |
 ## Tree
 |  |
 | ------- |
@@ -247,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
+| [0253-meeting-rooms-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0253-meeting-rooms-ii) |
 ## Queue
 |  |
 | ------- |
@@ -290,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0253-meeting-rooms-ii) |
 ## Quickselect
 |  |
 | ------- |
