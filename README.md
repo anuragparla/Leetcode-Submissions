@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0227-basic-calculator-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0227-basic-calculator-ii) |
 | [0271-encode-and-decode-strings](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0271-encode-and-decode-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0720-longest-word-in-dictionary) |
 | [0807-custom-sort-string](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0807-custom-sort-string) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0227-basic-calculator-ii) |
 | [2998-count-symmetric-integers](https://github.com/anuragparla/Leetcode-Submissions/tree/master/2998-count-symmetric-integers) |
 ## Stack
 |  |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
