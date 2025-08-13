@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0227-basic-calculator-ii) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -241,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
