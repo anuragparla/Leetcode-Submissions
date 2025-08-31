@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0162-find-peak-element) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0135-candy) |
 | [0253-meeting-rooms-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0253-meeting-rooms-ii) |
 ## Queue
 |  |
