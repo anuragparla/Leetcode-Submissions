@@ -24,13 +24,9 @@ class Solution:
             if frequency_map[key] % 2 == 0:
                 max_palindrome_length += frequency_map[key]
             else:
-            # elif frequency_map[key] > 1:
                 if not odd_occurence:
                     max_palindrome_length += frequency_map[key]
                     odd_occurence = True
                 else:
                     max_palindrome_length += frequency_map[key] - 1
-            # elif not odd_occurence and frequency_map[key] == 1 :
-            #     max_palindrome_length += 1 
-            #     odd_occurence = True
         return max_palindrome_length
