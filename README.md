@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0253-meeting-rooms-ii) |
 | [0271-encode-and-decode-strings](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0271-encode-and-decode-strings) |
 | [0496-next-greater-element-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0720-longest-word-in-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0359-logger-rate-limiter](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0359-logger-rate-limiter) |
 | [0409-longest-palindrome](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0720-longest-word-in-dictionary) |
 | [0807-custom-sort-string](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0816-design-hashset) |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0253-meeting-rooms-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
 |  |
 | ------- |
