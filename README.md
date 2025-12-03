@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0253-meeting-rooms-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0253-meeting-rooms-ii) |
 | [0271-encode-and-decode-strings](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0271-encode-and-decode-strings) |
+| [0322-coin-change](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0322-coin-change) |
 ## Matrix
 |  |
 | ------- |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
