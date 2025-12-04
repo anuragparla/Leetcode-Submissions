@@ -8,20 +8,20 @@ var rob = function(nums) {
 
     }
     let memo = {}
-    return robHouse (nums, 0, 0)
-    function robHouse(nums, index, amountRobbed){
-        const key = index + '-' + amountRobbed
+    return robHouse (nums, 0)
+    function robHouse(nums, index){
+        const key = index
         if (key in memo){
             return memo[key]
         }
 
         if (index >= nums.length){
-            return amountRobbed
+            return 0
         }
 
-        const houseNotRobbed = robHouse(nums, index+1, amountRobbed)
+        const houseNotRobbed = robHouse(nums, index+1)
 
-        const houseRobbed = robHouse(nums, index+2, amountRobbed+nums[index])
+        const houseRobbed = nums[index] + robHouse(nums, index+2)
 
         const maxVal = Math.max(houseNotRobbed,houseRobbed )
 
