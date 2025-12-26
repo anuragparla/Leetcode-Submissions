@@ -3,29 +3,21 @@
  * @return {number[]}
  */
 var productExceptSelf = function(nums) {
-    let lhsProduct = Array.from({length:nums.length}, ()=> 1)
-    let rhsProduct = Array.from({length:nums.length}, ()=> 1)
+    //let lhsProduct = Array.from({length:nums.length}, ()=> 1) 
+    let res = Array.from({length:nums.length}, ()=> 1) // storing rhs product
     let product = 1 
-    let res = []
+    // store lhs product in result array
     for (let i = 1; i<nums.length; i++){
         product = product * nums[i-1]
-        lhsProduct[i] = product
+        res[i] = product
     }
     product = 1 
+    // on the fly calculate rhs product and multiply it with the lhs product in res array
     for(let i = nums.length - 2; i>= 0; i--){
         product = product * nums[i+1]
-        rhsProduct[i] = product
+        res[i] = res[i] * product
     }
-
-    for(let k = 0; k<nums.length; k++) {
-        res[k] = lhsProduct[k] * rhsProduct[k];
-    }
-
-    return res
-    // lhs = [1,1,2,6]
-    // rhs = [24, 12, 4,1]
-
-    
+    return res 
 };
 
 /*
