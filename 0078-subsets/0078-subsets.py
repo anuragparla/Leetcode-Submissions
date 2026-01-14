@@ -1,28 +1,19 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        
-        if len(nums) == 0 or nums is None:
-            return []
-        self.res = []
-        self.backtrack(nums, 0, [])
-        return self.res
-    
-    def backtrack(self, nums, idx, path):
-        if idx == len(nums):
-            print('when base case')
-            print(path)
-            self.res.append(path[:])
+        self.output = []
+        self.recurse(0,[],nums)
+        return self.output
+    def recurse(self,idx,res,nums):
+        if idx >= len(nums):
+            self.output.append(res[:])
             return
-
-        #do not choose or 0 case
-        self.backtrack(nums, idx+1, path)
-        path.append(nums[idx])
-        print('after append')
-        print(path)
-        #choose or 1 case
-        self.backtrack(nums, idx+1, path)
-        path.pop()
-        print('after pop')
-        print(path)
         
+        #not pick
+        self.recurse(idx+1,res,nums)
+
+        #pick
+        res.append(nums[idx])
+        self.recurse(idx+1,res,nums)
+        res.pop()
+
         
