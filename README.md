@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0253-meeting-rooms-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0271-encode-and-decode-strings) |
 | [0322-coin-change](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 ## Divide and Conquer
 |  |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0720-longest-word-in-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0720-longest-word-in-dictionary) |
 | [0807-custom-sort-string](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0807-custom-sort-string) |
 ## Hash Table
@@ -134,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0290-word-pattern) |
 | [0359-logger-rate-limiter](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0359-logger-rate-limiter) |
 | [0409-longest-palindrome](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0409-longest-palindrome) |
@@ -156,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [2998-count-symmetric-integers](https://github.com/anuragparla/Leetcode-Submissions/tree/master/2998-count-symmetric-integers) |
 ## Stack
 |  |
@@ -329,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0268-missing-number) |
 ## Data Stream
 |  |
 | ------- |
