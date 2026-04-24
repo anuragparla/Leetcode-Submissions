@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0817-design-hashmap) |
 | [1656-count-good-triplets](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1656-count-good-triplets) |
+| [1929-concatenation-of-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1929-concatenation-of-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Binary Search
 |  |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0498-diagonal-traverse) |
+| [1929-concatenation-of-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
