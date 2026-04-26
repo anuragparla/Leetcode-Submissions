@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0253-meeting-rooms-ii) |
