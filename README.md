@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0205-isomorphic-strings) |
@@ -365,4 +367,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
