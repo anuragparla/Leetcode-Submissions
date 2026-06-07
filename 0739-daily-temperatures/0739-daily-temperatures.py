@@ -1,17 +1,21 @@
 class Solution:
     def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
-        res = [0] * len(temperatures)
-        mono_stack = []
+        '''
+        trigger: next warmer aka next greater
+        '''
+        '''
+        pattern: monotonic decreasing stack
+        '''
+        answer = [0] * len(temperatures)
+        mon_dec_stack = []
+        for i, curr in enumerate(temperatures):
 
-        for i in range(len(temperatures)):
-            # we compare the temperature at the top of the stack with the next greatest temp we found
-            while mono_stack and temperatures[i]>temperatures[mono_stack[-1]]:
-                value_popped = mono_stack.pop()
-                res[value_popped] = i - value_popped
-            # if stack is empty or the next temp is lesser than the top of the stack
-            mono_stack.append(i)
-        #for days where they will not have next higher temp
-        while mono_stack:
-            res[mono_stack.pop()] = 0
-        return res
+            while mon_dec_stack and mon_dec_stack[-1][0] < curr:
+                tmp,idx = mon_dec_stack.pop()
+                answer[idx] = i - idx
+            mon_dec_stack.append((curr,i))
+        return answer
+
+
+
         
