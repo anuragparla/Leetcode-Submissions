@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1512-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1656-count-good-triplets) |
 | [1929-concatenation-of-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1929-concatenation-of-array) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/anuragparla/Leetcode-Submissions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Binary Search
 |  |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0498-diagonal-traverse) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/anuragparla/Leetcode-Submissions/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
