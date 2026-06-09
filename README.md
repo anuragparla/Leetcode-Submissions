@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0816-design-hashset](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0817-design-hashmap) |
+| [1470-shuffle-the-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1512-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1656-count-good-triplets) |
 | [1929-concatenation-of-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1929-concatenation-of-array) |
