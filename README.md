@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0498-diagonal-traverse) |
 | [1929-concatenation-of-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1929-concatenation-of-array) |
+| [2810-faulty-keyboard](https://github.com/anuragparla/Leetcode-Submissions/tree/master/2810-faulty-keyboard) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0720-longest-word-in-dictionary) |
 | [0807-custom-sort-string](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0807-custom-sort-string) |
 | [1894-merge-strings-alternately](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
+| [2810-faulty-keyboard](https://github.com/anuragparla/Leetcode-Submissions/tree/master/2810-faulty-keyboard) |
 ## Sorting
 |  |
 | ------- |
