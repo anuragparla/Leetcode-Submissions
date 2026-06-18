@@ -17,13 +17,9 @@ class Solution:
                     right +=1 
                 elif nums[left] == 0 and nums[right] == 0:
                     right += 1
-                elif nums[left] != 0 and nums[right] != 0:
-                    left +=1 
-                    right +=1
-                elif nums[left] != 0 and nums[right] == 0:
+                else:
                     left += 1 
-                    right += 1
-                
+                    right += 1 
                 
             
         
