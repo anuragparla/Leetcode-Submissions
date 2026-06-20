@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0271-encode-and-decode-strings](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0271-encode-and-decode-strings) |
 | [0290-word-pattern](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0720-longest-word-in-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0720-longest-word-in-dictionary) |
 | [0807-custom-sort-string](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0807-custom-sort-string) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0290-word-pattern) |
 | [0359-logger-rate-limiter](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0359-logger-rate-limiter) |
 | [0409-longest-palindrome](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
