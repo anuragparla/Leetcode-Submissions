@@ -3,26 +3,27 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        temp = [0] * 3
-        # stroing frequency
-        for i in nums:
-            temp[i] = temp[i] + 1
-        # computing cumulative sum
-        for i in range(1,len(temp)):
-            temp[i] = temp[i-1] + temp[i]
-        # move the sum values by an index forward
-        for i in range((len(temp) - 1),0,-1):
-            temp[i] = temp[i-1]
-        temp[0] = 0 
-        # at this point we know that starting indexes of every number in the range
-        res = [0] * len(nums)
-        for i in range(len(nums)):
-            res[temp[nums[i]]] = nums[i]
-            temp[nums[i]] += 1
-        
-        nums[:] = res
-        
-
-
-
+        '''
+        red - 0 
+        white - 1 
+        blue - 2 
+        sort() not allowed, in place, order shoulbe 0s,1s, 2s 
+        0 1 2 2 1 0
+        This is a DNF algorithm problem
+        here low and high acts as 2 boundaries such that low will push 1s to middle and high will push 2s to end
+        '''
+        if nums is None:
+            return []
+        low, mid, high = 0,0,len(nums) - 1
+        while mid <= high:
+            if nums[mid] == 0:
+                nums[low], nums[mid] = nums[mid], nums[low]
+                low += 1
+                mid += 1
+            elif nums[mid] == 1:
+                mid += 1 
+            else:
+                nums[mid],nums[high] = nums[high],nums[mid]
+                high -= 1 
+        return nums
 
