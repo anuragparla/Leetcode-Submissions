@@ -13,8 +13,8 @@ class Solution:
             else:
                 freq_count[s[left]] -= 1
                 freq_count[s[right]] -= 1 
-                if freq_count[s[left]] == 0:
-                    del freq_count[s[left]]
+                # if freq_count[s[left]] == 0:
+                #     del freq_count[s[left]]
                 # if freq_count[s[right]]== 0:
                 #     del freq_count
                 left += 1 
