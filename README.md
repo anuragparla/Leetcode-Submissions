@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [0720-longest-word-in-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1929-concatenation-of-array) |
 | [2810-faulty-keyboard](https://github.com/anuragparla/Leetcode-Submissions/tree/master/2810-faulty-keyboard) |
 ## Two Pointers
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
