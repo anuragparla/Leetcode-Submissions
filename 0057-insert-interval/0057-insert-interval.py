@@ -1,11 +1,6 @@
 class Solution:
 
-    def merge(self,idx,intervals,merged):
-        #check for overlap and merge
-        if intervals[idx][0] <= merged[-1][1]:
-            merged[-1][1] = max(merged[-1][1], intervals[idx][1])
-        else:
-            merged.append(intervals[idx])
+    
 
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
         #handle empty list
@@ -37,6 +32,13 @@ class Solution:
             idx += 1 
         
         return merged
+    
+    def merge(self,idx,intervals,merged):
+        #check for overlap and merge
+        if intervals[idx][0] <= merged[-1][1]:
+            merged[-1][1] = max(merged[-1][1], intervals[idx][1])
+        else:
+            merged.append(intervals[idx])
 
 
 
