@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0816-design-hashset](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0817-design-hashmap) |
+| [0994-rotting-oranges](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1470-shuffle-the-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1512-number-of-good-pairs) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0498-diagonal-traverse) |
+| [0994-rotting-oranges](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/anuragparla/Leetcode-Submissions/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Simulation
 |  |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
