@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0498-diagonal-traverse) |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -320,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0322-coin-change) |
@@ -425,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 ## Counting
 |  |
 | ------- |
