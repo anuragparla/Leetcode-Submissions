@@ -20,8 +20,10 @@ class Solution:
         #             if grid[row][col] == "1" and (row,col) not in visited_set:
         #                 visited_set.add((row,col))
         #                 queue.append((row,col))
+
+        #dfs by not using additional visited set
         def dfs(row,col):
-            if row < 0 or col < 0 or row >= len(grid) or col >= len(grid[0]) or grid[row][col] == '0' or (row,col ) in visited_set:
+            if row < 0 or col < 0 or row >= len(grid) or col >= len(grid[0]) or grid[row][col] == '0':
                 return
             #visited_set.add((row,col))
             grid[row][col] = "0"
