@@ -1,45 +1,40 @@
+class TrieNode:
+    def __init__(self):
+        self.children = dict()
+        self.is_word = False
 class Trie:
-    class TrieNode:
-        def __init__(self):
-            self.children = [None] * 26
-            self.isEnd = False
-
 
     def __init__(self):
-        self.root = self.TrieNode()
-
+        self.root = TrieNode()
+        
 
     def insert(self, word: str) -> None:
-        # used to traverse the trie
         curr = self.root
-        for i in range(len(word)):
-            c = word[i]
-            if curr.children[ord(c)- ord('a')] is None:
-                curr.children[ord(c)- ord('a')] = self.TrieNode()
-            curr = curr.children[ord(c)- ord('a')]
-        curr.isEnd = True
-         
-        return
+        for c in word:
+            if c not in curr.children:
+                curr.children[c] = TrieNode()
+            curr = curr.children[c]
+        if not curr.is_word:
+            curr.is_word = True        
+        
 
     def search(self, word: str) -> bool:
         curr = self.root
-        for i in range(len(word)):
-            c = word[i]
-            if curr.children[ord(c)- ord('a')] is None:
+        for c in word:
+            if c not in curr.children:
                 return False
-            
-            curr = curr.children[ord(c)- ord('a')]
-
-        return curr.isEnd
+            curr = curr.children[c]
+        if curr.is_word == True:
+            return True
+        return False
         
 
     def startsWith(self, prefix: str) -> bool:
         curr = self.root
-        for i in range(len(prefix)):
-            c = prefix[i]
-            if curr.children[ord(c)- ord('a')] is None:
+        for p in prefix:
+            if p not in curr.children:
                 return False
-            curr = curr.children[ord(c)- ord('a')]
+            curr = curr.children[p]
         return True
         
 
