@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0676-implement-magic-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0720-longest-word-in-dictionary) |
 | [0807-custom-sort-string](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0807-custom-sort-string) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0676-implement-magic-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0720-longest-word-in-dictionary) |
 | [0807-custom-sort-string](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0816-design-hashset) |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0271-encode-and-decode-strings](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0271-encode-and-decode-strings) |
 | [0303-range-sum-query-immutable](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0359-logger-rate-limiter](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0359-logger-rate-limiter) |
+| [0676-implement-magic-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0676-implement-magic-dictionary) |
 | [0816-design-hashset](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0817-design-hashmap) |
 ## Monotonic Stack
@@ -321,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0572-subtree-of-another-tree) |
+| [0676-implement-magic-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0676-implement-magic-dictionary) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -418,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0676-implement-magic-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0720-longest-word-in-dictionary) |
 ## Heap (Priority Queue)
 |  |
