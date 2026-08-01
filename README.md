@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0227-basic-calculator-ii) |
 | [0271-encode-and-decode-strings](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0271-encode-and-decode-strings) |
 | [0290-word-pattern](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0290-word-pattern) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0271-encode-and-decode-strings](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0271-encode-and-decode-strings) |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0463-island-perimeter) |
@@ -414,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0720-longest-word-in-dictionary](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0720-longest-word-in-dictionary) |
 ## Heap (Priority Queue)
 |  |
