@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0268-missing-number) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0816-design-hashset) |
@@ -452,4 +455,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
