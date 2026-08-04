@@ -1,29 +1,26 @@
 class FreqStack:
 
     def __init__(self):
-        self.cnt = {}
-        self.maxCnt = 0
-        self.max_freq_stck = dict()
-        
+        self.freq_map = {} # val -> freq
+        self.maxCount = 0 
+        self.max_freq_stack = {}
 
     def push(self, val: int) -> None:
-        self.cnt[val] = self.cnt.get(val,0) + 1
-        if self.cnt[val] > self.maxCnt:
-            self.maxCnt = self.cnt[val]
-        if self.cnt[val] not in self.max_freq_stck:
-            self.max_freq_stck[self.cnt[val]] = [val]
+        self.freq_map[val] = self.freq_map.get(val,0) + 1 
+        valCount = self.freq_map[val]
+        if valCount > self.maxCount:
+            self.maxCount = valCount
+        if valCount not in  self.max_freq_stack:
+            self.max_freq_stack[valCount] = [val]
         else:
-            self.max_freq_stck[self.cnt[val]].append(val)
-
-        
+            self.max_freq_stack[valCount].append(val)
 
     def pop(self) -> int:
-        val = self.max_freq_stck[self.maxCnt].pop()
-        self.cnt[val] -= 1 
-        if not self.max_freq_stck[self.maxCnt]:
-            self.maxCnt -= 1
-        return val
-
+        res = self.max_freq_stack[self.maxCount].pop()
+        self.freq_map[res] -= 1
+        if not self.max_freq_stack[self.maxCount]:
+            self.maxCount -= 1
+        return res
         
 
 
