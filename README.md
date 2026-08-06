@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0817-design-hashmap) |
 | [0994-rotting-oranges](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
+| [1146-snapshot-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1146-snapshot-array) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1470-shuffle-the-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1512-number-of-good-pairs) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0981-time-based-key-value-store](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1146-snapshot-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0817-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1146-snapshot-array) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1512-number-of-good-pairs](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1512-number-of-good-pairs) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/anuragparla/Leetcode-Submissions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0817-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1146-snapshot-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -467,4 +471,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/anuragparla/Leetcode-Submissions/tree/master/0146-lru-cache) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/anuragparla/Leetcode-Submissions/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
